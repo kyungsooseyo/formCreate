@@ -1,0 +1,32 @@
+[
+  {
+    "label": "常见类型",
+    "options": [
+      {
+        "label": "输入框",
+        "value": "input"
+      },
+      {
+        "label": "单选框",
+        "value": "radio"
+      },
+      {
+        "label": "数字输入框",
+        "value": "InputNumber"
+      },
+      {
+        "label": "下拉框",
+        "value": "select"
+      }
+    ]
+  },
+  {
+    "label": "高级类型",
+    "options": [
+      {
+        "label": "时间选择框",
+        "value": "datepicker"
+      }
+    ]
+  }
+]

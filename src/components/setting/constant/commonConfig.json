@@ -1,0 +1,22 @@
+[
+  {
+    "type": "object",
+    "field": "col",
+    "props": {
+      "rule": [
+        {
+          "type": "InputNumber",
+          "field": "span",
+          "title": "占用宽度",
+          "value": 24
+        },
+        {
+          "type": "InputNumber",
+          "field": "offset",
+          "title": "偏移量",
+          "value": 0
+        }
+      ]
+    }
+  }
+]

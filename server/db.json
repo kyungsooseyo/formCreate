@@ -1,0 +1,72 @@
+{
+  "fields": [
+    {
+      "title": "姓名",
+      "field": "name",
+      "type": "input",
+      "id": 1
+    },
+    {
+      "title": "a",
+      "field": "1",
+      "type": "select",
+      "id": 2
+    },
+    {
+      "title": "性别",
+      "field": "gender",
+      "type": "radio",
+      "id": 3
+    },
+    {
+      "title": "a",
+      "field": "a",
+      "type": "input",
+      "col": {
+        "span": 12,
+        "offset": 0
+      },
+      "id": 4
+    },
+    {
+      "title": "b",
+      "field": "b",
+      "type": "input",
+      "col": {
+        "span": 12,
+        "offset": 0
+      },
+      "id": 5
+    },
+    {
+      "title": "c",
+      "field": "c",
+      "type": "datepicker",
+      "col": {
+        "span": 12,
+        "offset": 0
+      },
+      "id": 6
+    },
+    {
+      "title": "c",
+      "field": "c",
+      "type": "datepicker",
+      "col": {
+        "span": 24,
+        "offset": 0
+      },
+      "id": 7
+    },
+    {
+      "title": "d",
+      "field": "d",
+      "type": "datepicker",
+      "col": {
+        "span": 24,
+        "offset": 0
+      },
+      "id": 8
+    }
+  ]
+}
